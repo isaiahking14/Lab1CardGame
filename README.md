@@ -1,1 +1,1 @@
-# Lab1CardGame
+# Lab1GuessingGame
