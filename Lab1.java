@@ -6,7 +6,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class lab1
+public class Lab1
 {
     private static int GAME_COUNT = 0;
     private static int GUESS_COUNT = 0;
